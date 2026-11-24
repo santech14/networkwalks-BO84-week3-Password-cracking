@@ -1,7 +1,8 @@
 # networkwalks-BO84-week3-Password-cracking
-W3-PM1: Password Cracking with JTR
 
-# John the Ripper (JTR) and its graphical version, Johnny, are password recovery tools used to test password strength. In this lab, we use JTR and Johnny on a Windows PC to recover a password-protected PDF. First, install John the Ripper and Johnny, then extract the PDF hash using an online tool and save it in a text file. Finally, load the hash file into Johnny, start the password attack, and wait for the tool to recover the PDF password.
+# W3-PM1: Password Cracking with JTR
+
+John the Ripper (JTR) and its graphical version, Johnny, are password recovery tools used to test password strength. In this lab, we use JTR and Johnny on a Windows PC to recover a password-protected PDF. First, install John the Ripper and Johnny, then extract the PDF hash using an online tool and save it in a text file. Finally, load the hash file into Johnny, start the password attack, and wait for the tool to recover the PDF password.
 
 <img width="1505" height="974" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/522c26b0-3993-4c18-8b09-351cc12dc557" />
 
